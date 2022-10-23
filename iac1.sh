@@ -1,5 +1,12 @@
 #!/bin/bash
 
+##########################################
+#                                        #
+# Written by Diego Viane                 #
+# Github: https://github.com/diegoviane2 #
+#                                        #
+########################################## 
+
 # Folders list
 folders=("/publico" "/adm" "/ven" "/sec")
 
